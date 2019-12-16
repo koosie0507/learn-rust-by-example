@@ -14,4 +14,9 @@ fn main() {
     mutable = 21;
 
     let mutable = true;
+
+    let unit = ();
+
+    let arr = [1,2,3];
+    let tuple = (1, "abc");
 }
